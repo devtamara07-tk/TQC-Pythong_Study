@@ -35,7 +35,7 @@ This course is based on the **Python 程式設計概論** (Python Programming In
 
 ### Prerequisites / 前置需求
 - Python 3.10+ installed ([python.org](https://www.python.org/))
-- A code editor (VS Code, Google Antigravity, or any text editor)
+- A code editor (VS Code, or any text editor with Python support)
 
 ### How to Run / 如何執行
 
